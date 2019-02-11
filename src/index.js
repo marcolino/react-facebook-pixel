@@ -44,7 +44,7 @@ export default {
       n.queue = []; t = b.createElement(e); t.async = !0;
       t.src = v; s = b.getElementsByTagName(e)[0];
       s.parentNode.insertBefore(t, s)
-    }(window, document, 'script',
+    }(window, /*document, */'script',
       'https://connect.facebook.net/en_US/fbevents.js');
     /* eslint-enable */
 
@@ -54,6 +54,7 @@ export default {
       if (options.autoConfig === false) {
         fbq('set', 'autoConfig', false, pixelId); // eslint-disable-line no-undef
       }
+return;
 
       fbq('init', pixelId, advancedMatching); // eslint-disable-line no-undef
 

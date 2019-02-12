@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zsajjad/react-facebook-pixel.git"
+    "url": "git+https://github.com/marcolino/react-facebook-pixel.git"
   },
   "keywords": [
     "react",
@@ -21,14 +21,14 @@
     "facebook-pixel"
   ],
   "author": {
-    "name": "Zain Sajjad",
-    "email": "zsajjad93@gmail.com"
+    "name": "Marco Solari",
+    "email": "marcosolari@gmail.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zsajjad/react-facebook-pixel/issues"
+    "url": "https://github.com/marcolino/react-facebook-pixel/issues"
   },
-  "homepage": "https://github.com/zsajjad/react-facebook-pixel",
+  "homepage": "https://github.com/marcolino/react-facebook-pixel",
   "dependencies": {},
   "devDependencies": {
     "autoprefixer": "6.7.7",

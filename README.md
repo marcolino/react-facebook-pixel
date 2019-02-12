@@ -57,5 +57,3 @@ You can set IP and PORT in webpack.config.dev.js
 ```
 npm run bundle
 ```
-
-### Follow me on Twitter: [@zsajjad93](https://twitter.com/zsajjad93)
